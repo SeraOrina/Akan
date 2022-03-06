@@ -1,0 +1,23 @@
+nav {
+    background-color:lightgreen;
+    padding:45px;
+}
+nav ul{
+    max: width 200px;
+    margin: 0%;
+}
+nav li{
+    width: 250px;
+    font-size: large;
+    float: left;
+}
+h1{
+    font-size: larger;
+    text-align: center;
+}
+.test-box{
+    border: 2px solid red;
+    padding: 50px;
+    margin: 20px;
+    background-color: aquamarine;
+}
