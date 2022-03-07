@@ -10,7 +10,7 @@
 ## Technologies Used
 {HTML,CSS & JAVASCRIPT}
 ## Live Site
-  
+  { <a href="https://seraorina.github.io/Akan/"></a>}
 ### License
- **{MITLICENSE}}**
+ **{<a href="https://choosealicense.com/licenses/mit"></a>}**
   
