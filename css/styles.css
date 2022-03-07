@@ -3,13 +3,14 @@ nav {
     padding:45px;
 }
 nav ul{
-    max-width: 200px;
-    margin: 0%;
+   width:100px;
+    margin-top: 0%;
 }
 nav li{
-    width: 280px;
-    font-size: large;
+    width: 200px;
+    font-size: medium;
     float: left;
+    
 }
 h1{
     font-size: larger;
