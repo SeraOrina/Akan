@@ -3,7 +3,7 @@ nav {
     padding:45px;
 }
 nav ul{
-    max: width 200px;
+    max-width: 200px;
     margin: 0%;
 }
 nav li{
