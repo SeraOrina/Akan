@@ -1,5 +1,5 @@
 nav {
-    background-color:lightgreen;
+    background-color:pink;
     padding:45px;
 }
 nav ul{
@@ -7,17 +7,20 @@ nav ul{
     margin: 0%;
 }
 nav li{
-    width: 250px;
+    width: 280px;
     font-size: large;
     float: left;
 }
 h1{
     font-size: larger;
     text-align: center;
+    background-color:antiquewhite;
 }
 .test-box{
     border: 2px solid red;
-    padding: 50px;
-    margin: 20px;
-    background-color: aquamarine;
+    padding: 70px;
+    margin: 40px;
+    background-color: pinks;
 }
+body{ background-image: url('../images/grey.jpeg');}
+
