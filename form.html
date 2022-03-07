@@ -4,24 +4,27 @@
         <title>FORM</title>
     </head>
     <body>
-        <form>
+
+        <form method="get" action="#">
             <div>
-                <label>Date of Birth</label>
-                <input>
+                <label for="input-date">Date Of Birth</label>
+                <input id="date">
             </div>
             <div>
-                <label>Month of Birth</label>
-                <input>
+                <label for="input-month">Month of Birth</label>
+                <input id="name">
             </div>
             <div>
-                <label>Year of Birth </label>
-                <input>
+                <label for="input-year">Year of Birth </label>
+                <input id="year">
             </div>
             <div>
                 <label>Gender</label>
-                <input>
+                <input type="radio" name="Gender">Male
+                <input type="radio" name="Gender">Female
             </div>
             <button>Submit</button>
         </form>
+        <script src="js/scripts.js"></script>
     </body>
 </html>

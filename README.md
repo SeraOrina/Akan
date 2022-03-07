@@ -10,7 +10,7 @@
 ## Technologies Used
 {HTML,CSS & JAVASCRIPT}
 ## Live Site
-
+  
 ### License
- **{<a href="https://choosealicense.com/licenses/mit/"></a>}}**
+ **{https://github.com/SeraOrina/Akan/blob/master/LICENSE}}**
   
