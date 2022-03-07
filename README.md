@@ -12,5 +12,5 @@
 ## Live Site
   
 ### License
- **{https://github.com/SeraOrina/Akan/blob/master/LICENSE}}**
+ **{MITLICENSE}}**
   
